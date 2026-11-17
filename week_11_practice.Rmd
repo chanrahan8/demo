@@ -1,0 +1,19 @@
+---
+title: "week11_practice"
+output: html_document
+date: "2026-11-17"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Summary of the cars data
+
+The following code summarises the `cars` dataset and draws a plot.
+
+
+``` r
+summary(cars)
+plot(cars)
+```
