@@ -7,7 +7,7 @@ date: "2026-11-17"
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-a
+
 ## Summary of the cars data
 
 The following code summarises the `cars` dataset and draws a plot.
